@@ -34,7 +34,7 @@ However: The motor controller, as of July 2021, does not require the battery to 
 
 ##### m600
 
-The m600 is available in a 43v/20A and a 48v/18A variant.
+The m600 is available in a 36V/25A, 36V/15a, 43v/20A and a 48v/18A variant.
 It is, however, possible to run the 43v/20A firmware with a 48v battery, this would increase the max power output, but you might risk the battery being deep-drained, due to a too low cutoff voltage in the controller.
 
 It's also possible to run the 48v/18a variant on a 52v battery, as indicated here:
